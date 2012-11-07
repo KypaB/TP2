@@ -1,3 +1,4 @@
+package com.bogger.KypaB.homework10.code
 
 public class Ball {
 	private String name;
